@@ -1,6 +1,6 @@
 # DEC Mini official repository
 
-This is the official repository for the **DEC Mini** 3D-printed computer at https://decmini.com
+This is the official repository for the **DEC Mini** 3D-printed computer at https://decmini.tin.cat
 
 ![image](/images/dec-mini-1.jpg)
 
